@@ -139,6 +139,22 @@ body {
     border-radius: 6px;
 }
 
+.icon_habit {
+    margin-left: auto;
+}
+
+.icon_button {
+   /* margin: 1em; */
+   all: unset;
+   width: 1em;
+   height: 1em;
+    
+}
+
+.icon_button:hover {
+    background-color: #e9cd87;
+}
+
 .habit:not(.completed) {
     padding: 0;
 }
