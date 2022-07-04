@@ -1,5 +1,4 @@
 import datetime
-from operator import methodcaller
 import uuid
 from flask import Blueprint, render_template, request, redirect, url_for, current_app
 
